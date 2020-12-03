@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Portal
+  - Weapon
+  - Platform
+  - Checkpoint
+  - Ground
+  - HealthBar
+  - ManaBar
+  - LifeCounter
+  - SpawnPoint
+  - ScoreText
+  - Coin
+  - HealthPotion
+  - ManaPotion
+  - DamagePotion
+  - MessageTextBox
+  - GameOverUI
+  - Countdown
+  - FinalScoreText
+  - WinScreeUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 911977059
+    locked: 0
+  - name: Ground
+    uniqueID: 3765370461
+    locked: 0
+  - name: Items
+    uniqueID: 309282277
+    locked: 0
+  - name: Units
+    uniqueID: 2991840931
+    locked: 0
+  - name: Foreground
+    uniqueID: 212685531
+    locked: 0
